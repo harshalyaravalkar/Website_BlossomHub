@@ -1,0 +1,152 @@
+body{
+	background-color: greenyellow;
+}
+
+h1{
+	text-align: center;
+	font-family: Gabriola, Times, serif;
+	font-size: 100px;
+	color: #fc865a;
+	height: 150px;
+	background-color: #fac025;
+	padding: 10px;
+	text-shadow: -1px 1px 0 #dc4730, 
+					1px 1px 0 #dc4730,
+					1px -1px 0  #dc4730,
+					-1px -1px 0 #dc4730;
+	margin-top: 30px;
+	margin-bottom: 40px;
+
+}
+
+
+
+.main tr td{
+	
+	width: 40%;
+	margin: 5px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: greenyellow;
+	padding: 5px;
+	vertical-align: top;
+
+
+}
+
+.main table{
+	border-collapse: collapse;
+
+	
+
+}
+
+.mg{
+	background-image: url("marigold.jpg");
+	background-size: 100%;
+	padding: 5px;
+	height: 280px;	
+}
+
+
+.sf{
+	background-image: url("sunflower.jpg");
+	background-size: 100%;
+	padding: 5px;
+	height: 280px;
+}
+
+.zn{
+	background-image: url("zinnia.jpg");
+	background-size: 100%;
+	padding: 5px;
+	height: 280px;
+}
+
+.cm{
+	background-image: url("cosmos.jpg");
+	background-size: 110%;
+	padding: 5px;
+	height: 280px;
+}
+
+.ft{
+	border-style: ;
+}
+
+.main table tr:nth-child(even){
+	background-color: yellowgreen;
+	height: 100px;
+}
+
+
+.footer{
+	background-color: #A5DFCE;
+	margin-top: 215px;
+	margin-bottom: 0px;
+	height: 270px;
+}
+
+
+
+.fbrand {
+	font-family: Gabriola, Times, serif;
+	font-size: 30px;
+	color: #eed2fa;
+	background-color: #A5DFCE;
+	padding: 10px;
+	text-align: left;
+	text-shadow: -1px 1px 0 #f786c2, 
+					1px 1px 0 #f786c2,
+					1px -1px 0  #f786c2,
+					-1px -1px 0 #f786c2;
+	margin-bottom: 0px;
+}
+
+
+.sm i{
+	color: #0a5e73;
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+td a{
+	font-family: tahoma, sans-serif;
+	text-decoration: none;
+	color: #0a5e73;
+	padding: 5px;
+
+}
+
+#one{
+	border-top: 2px solid #888;
+	border-color: #0a5e73;
+	margin-left: 10px;
+
+}
+
+.two{
+	color: #A5DFCE;
+	margin-top: 0px;
+}
+
+p{
+	color: black;
+
+}
+
+.n{
+	font-weight: bold;
+	color: #04364C;
+}
+
+.para {
+	font-family: pacifico, comic sans ms;
+	padding: 5px;
+	color: #04364C;
+}
+
+
+

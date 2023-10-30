@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>UserList</title>
+	<script src="https://kit.fontawesome.com/06907ca0aa.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='../static/userlist.css')}}">
+</head>
+<body>
+	
+		<div align="center">
+		<h2>Userlist</h2>
+
+			<table >
+				<thead>
+					<th>Register No.</th>
+					<th>Name</th>
+					<th>Email</th>
+					<th>Password</th>
+					<th>Edit</th>
+					<th>Delete</th>
+				</thead>
+
+				{% for u in u_list %}
+					<tr>
+						<td>{{u[0]}}</td>
+						<td>{{u[1]}}</td>
+						<td>{{u[2]}}</td>
+						<td>{{u[3]}}</td>
+
+						<td><a href="/updateuser/{{u[0]}}"><i class="fa-solid fa-file-pen fa-sm"></i> Edit</a></td>
+						<td><a href="/deleteuser/{{u[0]}}"><i class="fa-solid fa-trash fa-sm"></i> Delete</a></td>
+					</tr>
+				{% endfor %}
+
+			</table>
+		
+	
+
+</body>
+</html>

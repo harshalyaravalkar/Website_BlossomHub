@@ -1,0 +1,154 @@
+body{
+	background-color: plum;
+}
+
+h1{
+	text-align: center;
+	font-family: Gabriola, Times, serif;
+	font-size: 100px;
+	color: #ede3ed;
+	height: 150px;
+	background-color: #9bf6ff;
+	padding: 10px;
+	text-shadow: -1px 1px 0 #eba9a7, 
+					1px 1px 0 #eba9a7,
+					1px -1px 0  #eba9a7,
+					-1px -1px 0 #eba9a7;
+	margin-top: 30px;
+	margin-bottom: 40px;
+
+}
+
+
+.main tr td{
+	
+	width: 40%;
+	margin: 5px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: plum;
+	padding: 5px;
+	vertical-align: top;
+
+
+
+}
+
+.main table{
+	border-collapse: collapse;
+
+	
+
+}
+
+.jr{
+	background-image: url("jarul.jpg");
+	background-size: 100%;
+	padding: 5px;
+	height: 250px;
+	
+	
+}
+
+
+.al{
+	background-image: url("amaltas.jpg");
+	background-size: 100%;
+	padding: 5px;
+	height: 250px;
+}
+
+.pl{
+	background-image: url("peacelily.jpg");
+	background-size: 100%;
+	padding: 5px;
+	height: 250px;
+}
+
+.tp{
+	background-image: url("tulips.jpg");
+	background-size: 110%;
+	padding: 5px;
+	height: 250px;
+}
+
+
+
+.main table tr:nth-child(even){
+	background-color: #9bf6ff;
+	height: 100px;
+}
+
+.footer{
+	background-color: #A5DFCE;
+	margin-top: 215px;
+	margin-bottom: 0px;
+	height: 270px;
+}
+
+
+
+.fbrand {
+	font-family: Gabriola, Times, serif;
+	font-size: 30px;
+	color: #eed2fa;
+	background-color: #A5DFCE;
+	padding: 10px;
+	text-align: left;
+	text-shadow: -1px 1px 0 #f786c2, 
+					1px 1px 0 #f786c2,
+					1px -1px 0  #f786c2,
+					-1px -1px 0 #f786c2;
+	margin-bottom: 0px;
+}
+
+
+.sm i{
+	color: #0a5e73;
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+td a{
+	font-family: tahoma, sans-serif;
+	text-decoration: none;
+	color: #0a5e73;
+	padding: 5px;
+
+}
+
+#one{
+	border-top: 2px solid #888;
+	border-color: #0a5e73;
+	margin-left: 10px;
+
+}
+
+.two{
+	color: #A5DFCE;
+	margin-top: 0px;
+}
+
+p{
+	color: black;
+}
+
+.n{
+	font-weight: bold;
+	color: #04364C;
+}
+
+.para {
+	font-family: pacifico, comic sans ms;
+	padding: 5px;
+	color: #04364C;
+}
+
+
+
+
+
+
+

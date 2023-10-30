@@ -1,0 +1,86 @@
+body{
+	background-image: url("pnkylopurplflwrbg.jpg.jpg");
+	background-size: 150%;
+}
+
+fieldset{
+	background-color: #A5DFCE;
+	opacity: 90%;
+	height: 700px;
+}
+
+h2{
+	font-family: Gabriola, Times, serif;
+	font-size: 50px;
+	height: 70px;
+	color: #035a61;
+	margin-top: 100px;
+}
+
+td{
+	font-family: Gabriola, Times, serif;
+	font-size: 35px;
+	color: #00838D;
+	font-weight: bold;
+}
+
+td input{
+	font-family: georgia, serif;
+	font-size: 18px;
+	color: #0a5e73;
+	background-color: #98eef5;
+	padding: 3px;
+	width: 200px;
+	height: 25px;
+	border: solid;
+	border-width: 2px;
+}
+
+
+
+input{
+	font-family: georgia, serif;
+	border-width: 2px;
+}
+
+
+
+#mon input[type="reset"]{
+	font-family: Gabriola, Times, serif;
+	width: 180px;
+	height: 50px;
+	font-size: 27px;
+	padding: 1px 5px;
+	margin: 10px;
+	font-weight: bold;
+	background-color: #035a61;
+	color: #A5DFCE;
+	
+	
+}
+
+#tues input[type="submit"]{
+	font-family: Gabriola, Times, serif;
+	width: 180px;
+	height: 50px;
+	font-size: 27px;
+	padding: 1px 5px;
+	margin: 10px;
+	font-weight: bold;
+	background-color: #035a61;
+	color: #A5DFCE;
+
+}
+
+#mon input:hover{
+	color: #035a61;
+	background-color: #A5DFCE;
+}
+
+#tues input:hover{
+	color: #035a61;
+	background-color: #A5DFCE;
+}
+
+
+

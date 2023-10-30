@@ -1,0 +1,118 @@
+
+
+
+
+
+
+body{
+	background-image: url("pnkylopurplflwrbg.jpg.jpg");
+	background-size: 150%;
+	color: #7ed7ed;
+}
+
+fieldset{
+	background-color: yellowgreen;
+	opacity: 90%;
+	height: 700px;
+}
+
+.admin h2{
+	font-family: Gabriola, Times, serif;
+	font-size: 80px;
+	height: 70px;
+	color: lightblue;
+}
+
+
+
+#one{
+	font-family: Gabriola, Times, serif;
+	font-size: 40px;
+	color: #7ed7ed;
+
+}
+
+#two{
+	font-family: Gabriola, Times, serif;
+	font-size: 40px;
+	color: #7ed7ed;
+
+}
+
+#three{
+	font-family: Gabriola, Times, serif;
+	font-size: 40px;
+	color: #7ed7ed;
+
+}
+
+td input[name = "uname"]{
+	font-size: 18px;
+	background: #b8e7f2;
+	color: #0a5e73;
+	font-family: georgia, serif;
+	border-style: solid;
+	border-color: #7ed7ed;
+
+}
+
+td input[name = "pin"]{
+	font-size: 18px;
+	background: #b8e7f2;
+	color: #0a5e73;
+	font-family: georgia, serif;
+	border-style: solid;
+	border-color: #7ed7ed;
+
+}
+
+td input[name = "adm_in"]{
+	font-size: 18px;
+	background: #b8e7f2;
+	color: #0a5e73;
+	font-family: georgia, serif;
+	border-style: solid;
+	border-color: #7ed7ed;
+
+}
+
+
+
+
+td input[value = "Reset"]{
+	font-family: Gabriola, Times, serif;
+	font-size: 23px;
+	width: 120px;
+	height: 40px;
+	background: #7ed7ed;
+	color: #0a5e73;
+	font-weight: bold;
+	border-color: #0a5e73 ;
+	border-style: solid;
+
+}
+
+td input[value = "Login"]{
+	font-family: Gabriola, Times, serif;
+	font-size: 23px;
+	width: 120px;
+	height: 40px;
+	background: #7ed7ed;
+	color: #0a5e73;
+	font-weight: bold;
+	border-color: #0a5e73 ;
+	border-style: solid;
+
+}
+
+h3{
+	font-family: Gabriola, Times, serif;
+	font-size: 25px;
+}
+
+h3 a[href="/registeration"]{
+	font-family: Gabriola, Times, serif;
+	font-size: 30px;
+	color: lightblue;
+	text-decoration: none;
+}

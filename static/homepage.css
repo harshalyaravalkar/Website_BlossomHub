@@ -1,0 +1,319 @@
+
+
+fieldset{
+	background-color: #add3f0;
+	opacity: 95%;
+	
+
+}
+
+body{
+	background-image: url("pnkylopurplflwrbg.jpg.jpg");
+	background-size: 100%;
+}
+
+h1{
+	font-family: Gabriola, Times, serif;
+	font-size: 120px;
+	color: #eed2fa;
+	height: 150px;
+	background-color: #A5DFCE;
+	padding: 10px;
+	text-align: center;
+	text-shadow:-1px 1px 0 #f786c2, 
+					1px 1px 0 #f786c2,
+					1px -1px 0  #f786c2,
+					-1px -1px 0 #f786c2;
+
+	margin-top: 30px;
+	margin-bottom: 40px;
+
+}
+
+.fi p{
+	float: left;
+	width: 33.33%;
+	height: 300px;
+}
+
+.florimg1{
+	border-radius: 50%;
+	background-image: url("pastlpnkorgcarnation.jpg.jpg");
+	background-size: 100%;
+	height: 200px;
+	width: 200px;
+	vertical-align: middle;
+}
+
+.florimg2{
+	border-radius: 50%;
+	background-image: url("diffclrtulps.jpg.jpg");
+	background-size: 98%;
+	height: 200px;
+	width: 200px;
+	vertical-align: middle;
+}
+
+.florimg3{
+	border-radius: 50%;
+	background-image: url("dullpinkrosesbg.jpg.jpg");
+	background-size: 100%;
+	height: 200px;
+	width: 200px;
+	vertical-align: middle;
+}
+
+.introl{
+	font-family: Gabriola, Times, serif;
+	font-size: 40px;
+	color: deepskyblue;
+	height: 50px;
+	padding: 10px;
+	text-align: center;
+	text-shadow: 0 0 3px #0e3b75, 
+					0 0 5px #0e3b75;
+
+	
+					
+
+}
+
+.navbar{
+	background-color: #5abced;
+	overflow: hidden;
+	
+}
+
+.navbar a{
+	float: left;
+	text-align: center;
+	padding: 12px 10px;
+	text-decoration: none;
+	color:#0a5e73;
+	font-family: Gabriola, Times, serif;
+	font-size: 25px;
+	width: 120px;
+}
+
+.intro{
+	color: #04364C;
+	padding: 20px;
+	font-family: pacifico, comic sans ms;
+	font-size: 20px;
+
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+	padding: 16px 16px 16px 16px;
+
+	
+}
+
+
+.infopage{
+	text-align: center;
+	text-decoration: none;
+	font-family: Gabriola, Times, serif;
+	font-size: 35px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 100px;
+	padding-right: 100px;
+	color: #0a5e73;
+	width: 200px;
+	background-color: #5abced;
+	border-color: #0a5e73;
+	border-style: solid;
+	margin-left: 500px;
+	margin-right: 500px;
+	margin-top: 0px;
+	height: 50px;
+
+
+}
+
+.dropdown_content{
+	display: none;
+	position: absolute;
+	left: 590px;
+	top: 105px;
+	min-width: 160px;
+	background-color: #5abced;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+	font-family: Gabriola, Times, serif;
+	font-size: 22px;
+	
+
+}
+
+.dropdown_content a{
+	color: #0a5e73;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	height: 40px;
+	width: 250px;
+	padding: 7px;
+	text-align: center;
+
+}
+
+.byseason{
+	display: none;
+	position: absolute;
+	left: 260px;
+	top: 0px;
+	background-color:  #5abced;
+	min-width: 160px;
+	min-height: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+	text-align: center;
+}
+
+strong{
+	padding: 5px;
+}
+
+.navbar a:hover{
+	background-color: #0a5e73;
+	color: #D67FA3;
+}
+
+strong{
+	padding: 7px;
+}
+
+.infopage:hover{
+	color: #D67FA3;
+	background-color: #0a5e73;
+	border-color: #D67FA3;
+}
+
+.dropdown .dropdown_content a:hover{
+	background-color: #c991b9;
+	color: #A5DFCE;
+
+}
+
+.dropdown:hover .dropdown_content{
+	display: block;
+}
+
+.dropdown:hover .dropdown_content:hover .byseason{
+	display: block;
+}
+
+.byseason a[href="/summer"]:hover{
+	background-color: yellow;
+	color: orangered;
+}
+
+.byseason a[href="/spring"]:hover{
+	background-color: #9bf6ff;
+	color: #eba9a7;
+}
+
+
+.byseason a[href="/winter"]:hover{
+	background-color: #6bb2e8;
+	color: #077ec7;
+}
+
+.footer{
+	background-color: #A5DFCE;
+	margin-top: 215px;
+	margin-bottom: 0px;
+	height: 240px;
+}
+
+td a{
+	font-family: tahoma, sans-serif;
+	text-decoration: none;
+	color: #0a5e73;
+	padding: 5px;
+
+}
+
+.fbrand {
+	font-family: Gabriola, Times, serif;
+	font-size: 30px;
+	color: #eed2fa;
+	background-color: #A5DFCE;
+	padding: 10px;
+	text-align: left;
+	text-shadow: -1px 1px 0 #f786c2, 
+					1px 1px 0 #f786c2,
+					1px -1px 0  #f786c2,
+					-1px -1px 0 #f786c2;
+	margin-bottom: 0px;
+}
+
+#one{
+	border-top: 2px solid #888;
+	border-color: #0a5e73;
+	margin-left: 10px;
+
+}
+
+.two{
+	color: #A5DFCE;
+	margin-top: 0px;
+}
+
+.sm i{
+	color: #0a5e73;
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+.sl{
+	text-align: center;
+	font-family: Gabriola, Times, serif;
+	font-size: 40px;
+	margin-top: 280px;
+	color: dodgerblue;
+	text-shadow: -1px 1px 0 skyblue, 
+					1px 1px 0 skyblue,
+					1px -1px 0  skyblue,
+					-1px -1px 0 skyblue;
+
+}
+
+.cont p{
+	color: #04364C;
+	padding: 20px;
+	font-family: pacifico, comic sans ms;
+	margin-top: 180px;
+	font-size: 20px;
+
+}
+
+.ll p{
+	text-align: center;
+	font-family: Gabriola, Times, serif;
+	font-size: 40px;
+	margin-top: 20px;
+	color: dodgerblue;
+	text-shadow: -1px 1px 0 skyblue, 
+					1px 1px 0 skyblue,
+					1px -1px 0  skyblue,
+					-1px -1px 0 skyblue;
+
+}
+
+p{
+	color: black;
+}
+
+
+
+
+*{
+	box-sizing: border;
+}
