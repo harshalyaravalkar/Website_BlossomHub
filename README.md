@@ -17,6 +17,5 @@ To run this website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/floral-seasons-archive.git
-   cd floral-seasons-archive
+   git clone https://github.com/harshalyaravalkar/Website_BlossomHub.git
 
