@@ -8,4 +8,4 @@
 - **Educational Resource**: Ideal for gardening enthusiasts, botany students, and nature lovers looking to understand the seasonality of flowers.
 
 # Usage
-1. **View the Website**: Visit the live website at [https://harshalyaravalkar.pythonanywhere.com](#).
+1. **View the Website**: Visit the live website at [https://harshalyaravalkar.pythonanywhere.com]
