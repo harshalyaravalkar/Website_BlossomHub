@@ -18,7 +18,7 @@ The website is hosted on PythonAnywhere, a platform for hosting Python web appli
 2. Upload your project files to your PythonAnywhere account.
 3. Set up a web app on PythonAnywhere and configure it to run your Flask application.
 4. Access your website at the provided PythonAnywhere URL.
-5. For detailed deployment instructions, refer to the PythonAnywhere documentation > https://help.pythonanywhere.com/pages/Flask/.
+5. For detailed deployment instructions, refer to the PythonAnywhere documentation.
 
 
 
