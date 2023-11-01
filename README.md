@@ -20,5 +20,4 @@ The website is hosted on PythonAnywhere, a platform for hosting Python web appli
 4. Access your website at the provided PythonAnywhere URL.
 5. For detailed deployment instructions, refer to the PythonAnywhere documentation.
 
-
-
+<br>Feel free to explore the beautiful world of flowers through our website. We hope it brings joy and knowledge to your botanical journey!
