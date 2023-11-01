@@ -11,11 +11,14 @@
 1. **View the Website**: Visit the live website at https://harshalyaravalkar.pythonanywhere.com
 2. **Explore Flowers**: Navigate through the seasons and explore different flower species. Click on flowers to learn more about them.
 
-## Installation
-To run this website locally, follow these steps:
+###Deployment
+The website is hosted on PythonAnywhere, a platform for hosting Python web applications. If you wish to deploy your own instance on PythonAnywhere, follow these steps:
 
-1. Clone the repository:
+1. Create a PythonAnywhere account.
+2. Upload your project files to your PythonAnywhere account.
+3. Set up a web app on PythonAnywhere and configure it to run your Flask application.
+4. Access your website at the provided PythonAnywhere URL.
+5. For detailed deployment instructions, refer to the PythonAnywhere documentation.
 
-   ```bash
-   git clone https://github.com/harshalyaravalkar/Website_BlossomHub.git
+
 
