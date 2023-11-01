@@ -1,16 +1,16 @@
 body{
-	background-color: greenyellow;
+	background-color: #add3f0;
 }
 
 h1{
 	text-align: center;
 	font-family: Gabriola, Times, serif;
-	font-size: 100px;
-	color: #fc865a;
-	height: 150px;
-	background-color: #fac025;
+	font-size: 70px;
+	color: #fac025;
+	height: 100px;
+	background-color: #A5DFCE;
 	padding: 10px;
-	text-shadow: -1px 1px 0 #dc4730, 
+	text-shadow: -1px 1px 0 #dc4730,
 					1px 1px 0 #dc4730,
 					1px -1px 0  #dc4730,
 					-1px -1px 0 #dc4730;
@@ -22,12 +22,12 @@ h1{
 
 
 .main tr td{
-	
+
 	width: 40%;
 	margin: 5px;
 	border-width: 10px;
 	border-style: solid;
-	border-color: greenyellow;
+	border-color:  #add3f0;
 	padding: 5px;
 	vertical-align: top;
 
@@ -37,7 +37,7 @@ h1{
 .main table{
 	border-collapse: collapse;
 
-	
+
 
 }
 
@@ -45,7 +45,7 @@ h1{
 	background-image: url("marigold.jpg");
 	background-size: 100%;
 	padding: 5px;
-	height: 280px;	
+	height: 280px;
 }
 
 
@@ -70,12 +70,10 @@ h1{
 	height: 280px;
 }
 
-.ft{
-	border-style: ;
-}
+
 
 .main table tr:nth-child(even){
-	background-color: yellowgreen;
+	background-color:#fcce4e;
 	height: 100px;
 }
 
@@ -96,7 +94,7 @@ h1{
 	background-color: #A5DFCE;
 	padding: 10px;
 	text-align: left;
-	text-shadow: -1px 1px 0 #f786c2, 
+	text-shadow: -1px 1px 0 #f786c2,
 					1px 1px 0 #f786c2,
 					1px -1px 0  #f786c2,
 					-1px -1px 0 #f786c2;
