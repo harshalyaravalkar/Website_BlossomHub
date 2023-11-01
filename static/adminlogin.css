@@ -96,6 +96,12 @@ td input[value = "Reset"]{
 
 }
 
+td input[value = "Reset"]:hover{
+    background-color: #0a5e73;
+    color: #7ed7ed;
+
+}
+
 td input[value = "Login"]{
 	font-family: Gabriola, Times, serif;
 	font-size: 23px;
@@ -106,6 +112,12 @@ td input[value = "Login"]{
 	font-weight: bold;
 	border-color: #0a5e73 ;
 	border-style: solid;
+
+}
+
+td input[value = "Login"]:hover{
+    background-color: #0a5e73;
+    color: #7ed7ed;
 
 }
 
