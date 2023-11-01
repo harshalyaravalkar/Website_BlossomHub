@@ -5,10 +5,9 @@ body{
 }
 
 fieldset{
-	background: #5abced;
+	background-color: #A5DFCE;
 	opacity: 90%;
-	border-color: #7ed7ed;
-	border-style: solid;
+	height: 700px;
 	
 }
 
