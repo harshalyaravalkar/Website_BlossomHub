@@ -11,7 +11,7 @@
 1. **View the Website**: Visit the live website at https://harshalyaravalkar.pythonanywhere.com
 2. **Explore Flowers**: Navigate through the seasons and explore different flower species. Click on flowers to learn more about them.
 
-###Deployment
+### Deployment
 The website is hosted on PythonAnywhere, a platform for hosting Python web applications. If you wish to deploy your own instance on PythonAnywhere, follow these steps:
 
 1. Create a PythonAnywhere account.
