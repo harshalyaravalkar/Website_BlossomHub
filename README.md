@@ -9,3 +9,8 @@
 
 # Usage
 1. **View the Website**: Visit the live website at https://harshalyaravalkar.pythonanywhere.com
+2. **Explore Flowers**: Navigate through the seasons and explore different flower species. Click on flowers to learn more about them.
+
+## Installation
+To run this website locally, follow these steps:
+
