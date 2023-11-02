@@ -44,6 +44,7 @@ h1{
 .jr{
 	background-image: url("jarul.jpg");
 	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 5px;
 	height: 250px;
 
@@ -54,6 +55,7 @@ h1{
 .al{
 	background-image: url("amaltas.jpg");
 	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 5px;
 	height: 250px;
 }
@@ -61,6 +63,7 @@ h1{
 .pl{
 	background-image: url("peacelily.jpg");
 	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 5px;
 	height: 250px;
 }
@@ -68,6 +71,7 @@ h1{
 .tp{
 	background-image: url("tulips.jpg");
 	background-size: 110%;
+	background-repeat: no-repeat;
 	padding: 5px;
 	height: 250px;
 }
