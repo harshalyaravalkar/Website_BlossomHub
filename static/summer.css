@@ -83,7 +83,7 @@ h1{
 .main table tr:nth-child(even){
 	background-color:#fcce4e;
 	height: 100px;
-	border-radius: 15px;
+	
 }
 
 
