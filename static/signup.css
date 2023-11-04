@@ -1,7 +1,7 @@
 body{
 	background-image: url("pnkylopurplflwrbg.jpg.jpg");
 	background-size: 100%;
-	color: white;
+	color: #4d947f;
 }
 
 fieldset{
@@ -93,6 +93,18 @@ td input[value = "Sign Up"]{
 	border-color: #0a5e73 ;
 	border-style: solid;
 
+}
+
+input[value = "Sign Up"]:hover{
+    background: #0a5e73;
+    color: #7ed7ed;
+    border-color: #7ed7ed;
+}
+
+input[value = "Reset"]:hover{
+    background: #0a5e73;
+    color: #7ed7ed;
+    border-color: #7ed7ed;
 }
 
 h3 a[href="/"]{
