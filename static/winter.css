@@ -1,5 +1,6 @@
 body{
 	background-color: #add3f0;
+
 }
 
 h1{
@@ -20,7 +21,6 @@ h1{
 }
 
 .main tr td{
-
 	width: 40%;
 	margin: 5px;
 	border-width: 10px;
@@ -29,12 +29,11 @@ h1{
 	padding: 5px;
 	vertical-align: top;
 
-
-
 }
 
 .main table{
 	border-collapse: collapse;
+
 }
 
 
@@ -42,28 +41,36 @@ h1{
 	background-image: url("pansies.jpg");
 	height: 250px;
 	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 5px;
+
 }
 
 .as{
 	background-image: url("aster.jpg");
 	height: 250px;
 	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 5px;
+
 }
 
 .dh{
 	background-image: url("dahlia.jpg");
 	height: 250px;
 	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 5px;
+
 }
 
 .sj{
 	background-image: url("jasmine.jpg");
 	height: 250px;
 	background-size: 100%;
+	background-repeat: no-repeat;
 	padding: 5px;
+
 }
 
 
@@ -78,6 +85,7 @@ h1{
 	margin-top: 215px;
 	margin-bottom: 0px;
 	height: 270px;
+
 }
 
 
@@ -94,6 +102,7 @@ h1{
 					1px -1px 0  #f786c2,
 					-1px -1px 0 #f786c2;
 	margin-bottom: 0px;
+
 }
 
 
@@ -103,6 +112,7 @@ h1{
 	margin-bottom: 10px;
 	margin-left: 10px;
 	margin-top: 5px;
+
 }
 
 td a{
@@ -123,20 +133,24 @@ td a{
 .two{
 	color: #A5DFCE;
 	margin-top: 0px;
+
 }
 
 p{
 	color: black;
+
 }
 
 .n{
 	font-weight: bold;
 	color: #04364C;
+
 }
 
 .para {
-	font-family: pacifico, comic sans ms;
+	font-family:  monaco, monospace;
 	padding: 5px;
 	color: #04364C;
+
 }
 

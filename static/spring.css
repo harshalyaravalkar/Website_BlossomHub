@@ -1,5 +1,6 @@
 body{
 	background-color: #add3f0;
+
 }
 
 h1{
@@ -30,14 +31,10 @@ h1{
 	padding: 5px;
 	vertical-align: top;
 
-
-
 }
 
 .main table{
 	border-collapse: collapse;
-
-
 
 }
 
@@ -48,7 +45,6 @@ h1{
 	padding: 5px;
 	height: 250px;
 
-
 }
 
 
@@ -58,6 +54,7 @@ h1{
 	background-repeat: no-repeat;
 	padding: 5px;
 	height: 250px;
+
 }
 
 .pl{
@@ -66,6 +63,7 @@ h1{
 	background-repeat: no-repeat;
 	padding: 5px;
 	height: 250px;
+
 }
 
 .tp{
@@ -74,6 +72,7 @@ h1{
 	background-repeat: no-repeat;
 	padding: 5px;
 	height: 250px;
+
 }
 
 
@@ -81,6 +80,7 @@ h1{
 .main table tr:nth-child(even){
 	background-color: #9bf6ff;
 	height: 100px;
+
 }
 
 .footer{
@@ -88,6 +88,7 @@ h1{
 	margin-top: 215px;
 	margin-bottom: 0px;
 	height: 270px;
+
 }
 
 
@@ -104,6 +105,7 @@ h1{
 					1px -1px 0  #f786c2,
 					-1px -1px 0 #f786c2;
 	margin-bottom: 0px;
+
 }
 
 
@@ -113,6 +115,7 @@ h1{
 	margin-bottom: 10px;
 	margin-left: 10px;
 	margin-top: 5px;
+
 }
 
 td a{
@@ -133,21 +136,25 @@ td a{
 .two{
 	color: #A5DFCE;
 	margin-top: 0px;
+
 }
 
 p{
 	color: black;
+
 }
 
 .n{
 	font-weight: bold;
 	color: #04364C;
+
 }
 
 .para {
-	font-family: pacifico, comic sans ms;
+	font-family:  monaco, monospace;
 	padding: 5px;
 	color: #04364C;
+
 }
 
 
