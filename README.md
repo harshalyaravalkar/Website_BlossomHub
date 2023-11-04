@@ -22,4 +22,4 @@ The website is hosted on PythonAnywhere, a platform for hosting Python web appli
 
 - **Fontawesome Icons**: Another dependency of this program is I've used many icons in my HTML code for every page and those icons are from https://fontawesome.com/icons
 
-<br><strong>Feel free to explore the beautiful world of flowers through our website. We hope it brings joy and knowledge to your botanical journey!</strong>
+<br><strong>Feel free to explore the beautiful world of flowers through our website. I hope it brings joy and knowledge to your botanical journey!</strong>
