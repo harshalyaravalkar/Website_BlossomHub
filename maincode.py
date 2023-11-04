@@ -165,7 +165,7 @@ def signup():
 
     t = (usernm,email,pasw)
     insertdata(t)
-    return render_template("homepage.html")
+    return render_template("login.html")
 
 
 @app.route("/updateuser/<int:ids>")
