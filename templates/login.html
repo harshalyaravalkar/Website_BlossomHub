@@ -1,37 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
+
 	<title>Login Page</title>
 	<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='../static/login.css')}}">
 	<script src="https://kit.fontawesome.com/06907ca0aa.js" crossorigin="anonymous"></script>
-	
+
 </head>
 
 <body>
-	
-		<div align="center">
-			<h2>Login Page</h2>
-		<form action="validateuser" method="POST">
-			<table>
-				<tr>
-					<td id="one"><strong>Username :</strong></td>
-					<td><input type="text" name="uname"></td>
-				</tr>
 
-				<tr>
-					<td id="two"><strong>Password :</strong></td>
-					<td><input type="Password" name="pin"></td>
-				</tr>
-			
-				<tr>
-					<td align="center"><input type="reset" value="Reset"></td>
-					<td align="center"><input type="submit" value="Login"></td>
-				</tr>
-			</table>
-			<h3>Don't have an account ?! then<br><a href="/registeration"><i class="fa fa-user-plus fa-sm" aria-hidden="true"></i><strong>  Sign Up !</strong></a></h3>
-		</form>
-	
+
+		<div class="float_container">
+		<div class="float_child">
+			<div class="logbox">
+			    <h2>Login</h2>
+		        <form action="validateuser" method="POST">
+		            <h3 class="h" >Username</h3>
+	                <input type="text" name="uname" autocomplete="off"><br><br>
+
+                	<h3 class="h" >Password</h3>
+	                <input type="Password" name="pin" autocomplete="off">
+
+		            <table>
+		                <tr>
+			                <td><input type="reset" value="Reset"></td>
+			                <td><input type="submit" value="Login"></td>
+		                </tr>
+	                </table >
+	                <h3 class="su">Here For the First Time ?!<br><br><a href="/registeration"> Sign UP !</a></h3>
+		        </form>
+		    </div>
+		</div>
+
+		<div class="float_child">
+			<div class="simg">
+				<img src="static/flwr1.png" style="width: 100%; height: 603px;">
+			</div>
+		</div>
+	    </div>
+
 
 </body>
 </html>
